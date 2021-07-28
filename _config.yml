@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: Youmeng
+subtitle: '打算写博客...这次能坚持几天？'
+description: '一次又一次打算写博客...一次又一次放弃...这次能坚持几天？'
+keywords: blog
+author: 有梦
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://youmengme.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -51,7 +51,7 @@ highlight:
   wrap: true
   hljs: false
 prismjs:
-  enable: false
+  enable: true
   preprocess: true
   line_number: true
   tab_replace: ''
@@ -90,7 +90,7 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include:
+include: 
 exclude:
 ignore:
 
